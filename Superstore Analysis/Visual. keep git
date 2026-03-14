@@ -1,0 +1,8 @@
+# Visuals Folder
+
+This folder contains all charts, graphs, dashboards, and other visual outputs generated during the analysis.  
+
+- **Charts/Graphs**: PNG, JPG, or SVG files showing trends, patterns, or insights.  
+- **Dashboards**: Screenshots of Power BI, Tableau, or other interactive dashboards.  
+
+The `visuals/` folder helps make the analysis more interpretable and visually appealing for viewers and recruiters.
